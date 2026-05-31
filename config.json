@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterperify",
+        "uuid": 11482049,
+        "checksum": "w6os2c"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
